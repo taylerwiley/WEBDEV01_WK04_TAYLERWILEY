@@ -46,12 +46,12 @@ export default [
     {
         type: 'list',
         name: 'Q5',
-        message: 'What is the mascot of the NBA team in New Orleans?',
+        message: 'What is the capital of Georgia',
         choices: [
-            "Hornets",
-            "Pelicans",
-            "Bobcats",
-            "Warriors",
+            "Montgomery",
+            "Atlanta",
+            "Houston",
+            "Syracuse",
         ]
 
     },
